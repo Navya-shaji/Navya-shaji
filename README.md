@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 **About Me**
+🌟 **About Me**
 - 🔭 Currently pursuing my journey to become a **MERN Stack Developer**.  
 - 🌱 Passionate about **Web Development, JavaScript, and Full-Stack Development**.  
 - 🚀 Focused on learning **MongoDB, Express.js, React.js, and Node.js**.  
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+🛠️ **Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
@@ -52,23 +52,24 @@
 ✅ Collaboration and asking questions accelerate growth.  
 
 ---
-
-## 🏆 **My Achievements**
+ 🏆 **My Achievements**
 🎯 Built several responsive websites using **HTML, CSS, Bootstrap, and JavaScript**.  
 🎯 Created portfolio and mini-projects while learning React.  
 🎯 Solved multiple JavaScript and DSA problems for practice.  
 🎯 Participated in seminars and workshops on web development.  
 
 ---
+ 🔥 **GitHub Activity Graph**
+ <a href="https://github.com/Navya-shaji">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navya-shaji&stroke=ffffff&background=0000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="350" height="175" />
+</a>
 
-## 🔥 **GitHub Activity Graph**
- <a href="https://github.com/Navya-shaji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Navya-shaji&stroke=ffffff&background=0000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="500" height="500" /></a>
-  
+<br>
+
 ![Navya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&theme=tokyo-night)
 
 
-
-## 🎮 **Fun Facts About Me**
+ 🎮 **Fun Facts About Me**
 - 🎯 **Favorite Language:** JavaScript  
 - 🔥 **Hobbies:** Learning new frameworks, exploring web tech, and designing  
 - 📚 **Currently Learning:** Advanced React, Node.js and MongoDB  
@@ -89,7 +90,7 @@
 <br>
 <table>
 
-## 🌎 **Let's Connect!**
+ 🌎 **Let's Connect!**
 <p align="center">
   <a href="www.linkedin.com/in/navya-shaji-b3b81b325"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:your-navyacshaji12@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
