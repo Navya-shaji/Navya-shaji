@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 - 🌱 I’m currently learning advanced JavaScript, Node.js, and backend development.
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 💬 Ask me about web development, JavaScript, and anything tech-related.
-- 📫 How to reach me: [your-email@example.com] | [LinkedIn Profile] (optional)
+- 📫 How to reach me: [navyacshaji12@gmail.com] | [www.linkedin.com/in/navya-shaji-b3b81b325] 
 - ⚡ Fun fact: I believe that consistency beats talent when talent doesn't work hard.
 
 ## 🛠️ Skills
@@ -21,4 +21,4 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 
 ---
 
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+
