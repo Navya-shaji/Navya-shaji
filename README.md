@@ -66,6 +66,7 @@
 
 ---
 
+
 ## 🎮 **Fun Facts About Me**
 - 🎯 **Favorite Language:** JavaScript  
 - 🔥 **Hobbies:** Learning new frameworks, exploring web tech, and designing  
@@ -80,4 +81,6 @@
   <a href="www.linkedin.com/in/navya-shaji-b3b81b325"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:your-navyacshaji12@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Navya-shaji"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+   <a href="https://leetcode.com/u/Navyacs/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+
 </p>
