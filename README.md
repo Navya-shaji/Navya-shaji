@@ -36,9 +36,9 @@
 
 ## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navya-shaji&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" alt="Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navya-shaji&theme=tokyonight" alt="Profile Summary">
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ---
 
 ## 🔥 **GitHub Activity Graph**
-![Navya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night)
+![Navya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&theme=tokyo-night)
 
 ---
 
