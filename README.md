@@ -62,7 +62,7 @@
 ---
 
 ## 🔥 **GitHub Activity Graph**
- <a href="https://github.com/Navya-shaji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Navya-shaji&stroke=ffffff&background=0000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="465" height="175" /></a>
+ <a href="https://github.com/Navya-shaji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Navya-shaji&stroke=ffffff&background=0000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="500" height="500" /></a>
   
 ![Navya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&theme=tokyo-night)
 
