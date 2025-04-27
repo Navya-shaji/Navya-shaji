@@ -80,7 +80,7 @@
   > Leet Code Badges
   <tr>
     <td align="center" width="150">
-        <a href="#" target="_blank"><img src="https://leetcode.com/medal/?showImg=0&id=6903208&isLevel=false" alt="leetcode-badges" width="55" /></a>
+        <a href="#" target="_blank"><img src="https://leetcode.com/medal/" alt="leetcode-badges" width="55" /></a>
       <br>50 Days Badge
     </td>
   </tr>
