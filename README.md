@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I'm Navya Shaji
 
-<!--
-**Navya-shaji/Navya-shaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, development, and continuous learning.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on exciting web development and programming projects.
+- 🌱 I’m currently learning advanced JavaScript, Node.js, and backend development.
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+- 💬 Ask me about web development, JavaScript, and anything tech-related.
+- 📫 How to reach me: [your-email@example.com] | [LinkedIn Profile] (optional)
+- ⚡ Fun fact: I believe that consistency beats talent when talent doesn't work hard.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: HTML, CSS, JavaScript, Python
+- Frameworks/Libraries: React, Node.js, Express, Bootstrap
+- Databases: MongoDB
+- Tools: Git, GitHub, VS Code
+
+## 📈 GitHub Stats
+![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navya-shaji&show_icons=true&theme=radical)
+
+---
+
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein
