@@ -82,12 +82,12 @@
   > Leet Code Badges
   <tr>
     <td align="center" width="150">
-        <a href="#" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif"  alt="leetcode-badges" width="55" /></a>
+        <a href="#" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  alt="leetcode-badges" width="55" /></a>
       <br>50 Days Badge
     </td>
        <td align="center" width="150">
-        <a href="#" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif"  alt="leetcode-badges" width="55" /></a>
-      <br>50 Days Badge
+        <a href="#" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif"  alt="leetcode-badges" width="55" /></a>
+      <br>100 Days Badge
     </td>
   </tr>
 </table>
