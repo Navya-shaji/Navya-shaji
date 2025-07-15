@@ -53,16 +53,25 @@
 
 Through dedication and consistent learning, I completed the MERN Stack—mastering MongoDB, Express.js, React.js, and Node.js. Every day in this journey has been an exciting opportunity to learn, build, and grow. I'm passionate about creating meaningful, scalable web applications that make a difference."
 
+---
 💡 Lessons I’ve Learned:
 
 🛠️ Projects deepen learning.
+
 📅 Consistency beats talent.
+
 🤝 Asking and collaborating speeds growth.
+
 🐞 Debugging teaches best.
+
 📝 Writing things down brings clarity.
+
 🧠 Curiosity keeps you sharp.
+
 📈 Small steps = big progress.
+
 📣 Teaching helps you learn too.
+
 🧗 Stuck? Just don’t quit.
 
 ---
