@@ -102,22 +102,16 @@ Through dedication and consistent learning, I completed the MERN Stack—masteri
   
 <!--  LeetCode Badges Section -->
 <h3>🏅 LeetCode Badges</h3>
-<table style="margin: 20px auto; border-collapse: collapse; text-align: center;">
   <tr>
-    <td style="padding: 20px;">
-      <a href="#" target="_blank">
-        <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" width="60" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
-      </a>
-      <div style="margin-top: 10px; font-weight: bold;">50 Days Badge</div>
+    <td align="center" width="150">
+        <a href="#" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  alt="leetcode-badges" width="55" /></a>
+      <br>50 Days Badge
     </td>
-    <td style="padding: 20px;">
-      <a href="#" target="_blank">
-        <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Badge" width="60" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
-      </a>
-      <div style="margin-top: 10px; font-weight: bold;">100 Days Badge</div>
+       <td align="center" width="150">
+        <a href="#" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif"  alt="leetcode-badges" width="55" /></a>
+      <br>100 Days Badge
     </td>
   </tr>
-</table>
 
 <br>
 
