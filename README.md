@@ -106,9 +106,9 @@ Through dedication and consistent learning, I completed the MERN Stack—masteri
 
 
 
-  
-<!--  LeetCode Badges Section -->
-<h3>🏅 LeetCode Badges</h3>
+
+
+  > Leet Code Badges
   <tr>
     <td align="center" width="150">
         <a href="#" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  alt="leetcode-badges" width="55" /></a>
@@ -119,6 +119,7 @@ Through dedication and consistent learning, I completed the MERN Stack—masteri
       <br>100 Days Badge
     </td>
   </tr>
+
 
 <br>
 
