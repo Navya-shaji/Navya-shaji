@@ -84,6 +84,7 @@ Through dedication and consistent learning, I completed the MERN Stack—masteri
 
 
  🎮 **Fun Facts About Me**
+ 
 🎯 Favorite Language: JavaScript
 
 🔥 Hobbies: Exploring new frameworks, diving into web technologies, and creative UI/UX design
@@ -95,19 +96,9 @@ Through dedication and consistent learning, I completed the MERN Stack—masteri
 🏆 Coding Motto: "Practice like you've never won. Perform like you've never lost."
 
 ---
-<table>
 
-  > Leet Code Badges
-  <tr>
-    <td align="center" width="150">
-        <a href="#" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif"  alt="leetcode-badges" width="55" /></a>
-      <br>50 Days Badge
-    </td>
-       <td align="center" width="150">
-        <a href="#" target="_blank"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif"  alt="leetcode-badges" width="55" /></a>
-      <br>100 Days Badge
-    </td>
-  </tr>
+
+
   
 <!--  LeetCode Badges Section -->
 <h3>🏅 LeetCode Badges</h3>
