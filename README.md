@@ -2,7 +2,7 @@
 
 
  <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenUzaWlpa3ZocHlycjd5aHV1ZXNlbHE0aW1zd200dnY4bXg0eGpveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWF3b3cxbnBiODR6MDQxdDBqNHdnM2xvMXVya3Q0ajU3MXZ1dmR4NSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="300" height="300">
 </p>
 
 <h3 align="center">🚀 MERN Stack Developer (in progress) | 💡 Tech Enthusiast | 📚 Lifelong Learner</h3>
