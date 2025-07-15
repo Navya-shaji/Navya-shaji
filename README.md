@@ -5,18 +5,24 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWF3b3cxbnBiODR6MDQxdDBqNHdnM2xvMXVya3Q0ajU3MXZ1dmR4NSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="300" height="300">
 </p>
 
-<h3 align="center">🚀 MERN Stack Developer (in progress) | 💡 Tech Enthusiast | 📚 Lifelong Learner</h3>
+<h3 align="center">🚀 MERN Stack Developer </h3>
 
 ---
 
 🌟 **About Me**
-- 🔭 Currently pursuing my journey to become a **MERN Stack Developer**.  
-- 🌱 Passionate about **Web Development, JavaScript, and Full-Stack Development**.  
-- 🚀 Focused on learning **MongoDB, Express.js, React.js, and Node.js**.  
-- 💡 I believe in **learning by doing** and building real-world projects.  
-- 🎯 My goal is to create **high-quality, scalable web applications**.  
-- 💬 Ask me about **JavaScript, React, Node.js, and Web Technologies**.  
-- ⚡ Fun fact: **I love turning challenges into opportunities! 🌟**  
+🔭 I have successfully completed my journey to become a MERN Stack Developer.
+
+🌱 Passionate about Web Development, JavaScript, and Full-Stack Development.
+
+🚀 Skilled in MongoDB, Express.js, React.js, and Node.js.
+
+💡 I believe in learning by doing and building real-world projects.
+
+🎯 My goal is to create high-quality, scalable web applications.
+
+💬 Ask me about JavaScript, React, Node.js, and Web Technologies.
+
+⚡ Fun fact: I love turning challenges into opportunities!
 
 ---
 
@@ -42,9 +48,10 @@
 </p>
 
 ---
+🎯 My Developer Journey
+"With a background in Mathematics, I’ve always loved solving problems and thinking logically. My curiosity about how websites work sparked a deep passion for technology, which led me to explore the world of coding. I initially fell in love with front-end development, and this interest quickly grew into a strong desire to become a full-stack developer.
 
-## 🎯 **My Developer Journey**
-> "I started my journey with a curiosity about how websites work. As I explored more, I fell in love with front-end development, and now I'm learning full-stack development with the MERN stack. Every day is a new opportunity to grow and build!"
+Through dedication and consistent learning, I completed the MERN Stack—mastering MongoDB, Express.js, React.js, and Node.js. Every day in this journey has been an exciting opportunity to learn, build, and grow. I'm passionate about creating meaningful, scalable web applications that make a difference."
 
 **💡 Lessons I’ve learned:**  
 ✅ Building projects makes learning faster and deeper.  
@@ -52,6 +59,7 @@
 ✅ Collaboration and asking questions accelerate growth.  
 
 ---
+
  🏆 **My Achievements**
 🎯 Built several responsive websites using **HTML, CSS, Bootstrap, and JavaScript**.  
 🎯 Created portfolio and mini-projects while learning React.  
