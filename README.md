@@ -86,13 +86,9 @@ Through dedication and consistent learning, I completed the MERN Stack—masteri
  🎮 **Fun Facts About Me**
  
 🎯 Favorite Language: JavaScript
-
 🔥 Hobbies: Exploring new frameworks, diving into web technologies, and creative UI/UX design
-
 🚀 Role: Now a proud Full MERN Stack Developer after mastering MongoDB, Express.js, React.js, and Node.js
-
 📚 Always Learning: Staying updated with the latest in React, Node.js, and backend performance optimization
-
 🏆 Coding Motto: "Practice like you've never won. Perform like you've never lost."
 
 ---
