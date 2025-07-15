@@ -54,13 +54,19 @@
 Through dedication and consistent learning, I completed the MERN Stack—mastering MongoDB, Express.js, React.js, and Node.js. Every day in this journey has been an exciting opportunity to learn, build, and grow. I'm passionate about creating meaningful, scalable web applications that make a difference."
 
 **💡 Lessons I’ve learned:**  
-✅ Building projects makes learning faster and deeper.  
-✅ Consistency and practice beat talent every time.  
-✅ Collaboration and asking questions accelerate growth.  
-
+🛠️ Building projects makes learning faster and deeper.
+📅 Consistency and practice beat talent every time.
+🤝 Collaboration and asking questions accelerate growth.
+🐞 Debugging is not a setback — it’s where real learning happens.
+📝 Documenting your code and thought process improves clarity.
+🧠 Staying curious keeps the spark alive in your tech journey.
+📈 Small progress every day leads to big results over time.
+📣 Sharing knowledge helps reinforce your own understanding.
+🧗 It’s okay to feel stuck — what matters is not giving up.
 ---
 
  🏆 **My Achievements**
+ 
 🎯 Built several responsive websites using **HTML, CSS, Bootstrap, and JavaScript**.  
 🎯 Created portfolio and mini-projects while learning React.  
 🎯 Solved multiple JavaScript and DSA problems for practice.  
@@ -78,11 +84,15 @@ Through dedication and consistent learning, I completed the MERN Stack—masteri
 
 
  🎮 **Fun Facts About Me**
-- 🎯 **Favorite Language:** JavaScript  
-- 🔥 **Hobbies:** Learning new frameworks, exploring web tech, and designing  
-- 📚 **Currently Learning:** Advanced React, Node.js and MongoDB  
-- 🍕 **Love for Food:** Chocolate and Pizza! 🍕🍫  
-- 🏆 **Coding Motto:** "Practice like you've never won. Perform like you've never lost."  
+🎯 Favorite Language: JavaScript
+
+🔥 Hobbies: Exploring new frameworks, diving into web technologies, and creative UI/UX design
+
+🚀 Role: Now a proud Full MERN Stack Developer after mastering MongoDB, Express.js, React.js, and Node.js
+
+📚 Always Learning: Staying updated with the latest in React, Node.js, and backend performance optimization
+
+🏆 Coding Motto: "Practice like you've never won. Perform like you've never lost."
 
 ---
 <table>
@@ -98,9 +108,28 @@ Through dedication and consistent learning, I completed the MERN Stack—masteri
       <br>100 Days Badge
     </td>
   </tr>
+  
+<!--  LeetCode Badges Section -->
+<h3>🏅 LeetCode Badges</h3>
+<table style="margin: 20px auto; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td style="padding: 20px;">
+      <a href="#" target="_blank">
+        <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" width="60" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
+      </a>
+      <div style="margin-top: 10px; font-weight: bold;">50 Days Badge</div>
+    </td>
+    <td style="padding: 20px;">
+      <a href="#" target="_blank">
+        <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Badge" width="60" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
+      </a>
+      <div style="margin-top: 10px; font-weight: bold;">100 Days Badge</div>
+    </td>
+  </tr>
 </table>
+
 <br>
-<table>
+
 
  🌎 **Let's Connect!**
 <p align="center">
