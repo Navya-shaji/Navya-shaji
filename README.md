@@ -92,7 +92,7 @@
 ## 🔥 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navya-shaji&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Navya-shaji&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&theme=tokyo-night" width="100%" />
 </p>
 
