@@ -97,7 +97,7 @@
 </p>
 ---
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amal0005&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&theme=tokyonight" alt="Contribution Graph" />
 </p>
 ---
 
