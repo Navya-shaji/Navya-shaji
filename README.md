@@ -93,7 +93,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Navya-shaji&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&theme=tokyo-night" width="100%" />
+
 </p>
 
 ---
