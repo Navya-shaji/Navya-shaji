@@ -83,7 +83,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=Navya-shaji&show_icons=true&theme=tokyonight" width="48%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Navya-shaji&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navya-shaji&theme=tokyonight" width="48%" />
 </p>
 
@@ -92,7 +92,7 @@
 ## 🔥 GitHub Activity Graph
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Navya-shaji&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=Navya-shaji&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&theme=tokyo-night" width="100%" />
 </p>
 
