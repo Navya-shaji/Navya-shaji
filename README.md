@@ -95,11 +95,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Navya-shaji&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
 
 </p>
----
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&theme=tokyonight" alt="Contribution Graph" />
 </p>
----
+
 
 ## 🎮 Fun Facts About Me
 
