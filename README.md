@@ -95,9 +95,9 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&theme=tokyonight" alt="Contribution Graph" />
-</p>
+  </div>
+  <a href="https://github.com/Navya-shaji"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&bg_color=0000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="850" height="300" alt="Contribution Constellation"/></a>
+</div>
 
 
 ## 🎮 Fun Facts About Me
