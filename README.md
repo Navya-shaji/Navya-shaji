@@ -91,7 +91,8 @@
 ## 🔥 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Navya-shaji&theme=tokyonight" alt="GitHub Streak" />
+  <img src="![GitHub Streak](https://streak-stats.demolab.com?user=Navya-shaji&theme=tokyonight)
+" alt="GitHub Streak" />
 
 </p>
 
