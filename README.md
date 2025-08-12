@@ -6,7 +6,9 @@
 
 <h3 align="center">🚀 Full MERN Stack Developer | Problem Solver | Web Enthusiast</h3>
 
----
+<div align="center" style="background-color: transparent;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 ## 🌟 About Me
 - 🎓 I have successfully completed my journey to become a **MERN Stack Developer**.  
