@@ -10,18 +10,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## 🌟 About Me
+ 🌟 About Me
 - 🎓 I have successfully completed my journey to become a **MERN Stack Developer**.  
 - 🌱 Passionate about **Web Development, JavaScript, and Full-Stack Engineering**.  
 - 🚀 Skilled in **MongoDB, Express.js, React.js, and Node.js**.  
 - 💡 I believe in **learning by doing** and building real-world projects.  
 - 🎯 My goal is to create **high-quality, scalable web applications**.  
-- 💬 Ask me about **JavaScript, React, Node.js, and Web Technologies**.  
+ 💬 Ask me about **JavaScript, React, Node.js, and Web Technologies**.  
 - ⚡ Fun fact: I love turning **challenges into opportunities**!
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -48,7 +48,7 @@
 
 ---
 
-## 🎯 My Developer Journey
+🎯 My Developer Journey
 
 > With a background in **Mathematics**, I’ve always loved solving problems and thinking logically.  
 > My curiosity about how websites work sparked a deep **passion for technology**, which led me to explore the world of coding.  
@@ -59,7 +59,7 @@
 
 ---
 
-## 💡 Lessons I’ve Learned
+ 💡 Lessons I’ve Learned
 
 🛠️ Projects deepen learning  
 📅 Consistency beats talent  
@@ -73,7 +73,7 @@
 
 ---
 
-## 🏆 Achievements
+🏆 Achievements
 
 - ✅ Built responsive websites using **HTML, CSS, Bootstrap, and JavaScript**  
 - ✅ Created portfolio and mini-projects using **React**  
