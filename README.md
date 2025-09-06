@@ -1,4 +1,5 @@
-<h1 align="center">Hey there, I'm Navya cs 🌝</h1>
+<h1 align="center">Hey there, I'm Navya cs 
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWF3b3cxbnBiODR6MDQxdDBqNHdnM2xvMXVya3Q0ajU3MXZ1dmR4NSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="250" height="250">
