@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWF3b3cxbnBiODR6MDQxdDBqNHdnM2xvMXVya3Q0ajU3MXZ1dmR4NSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="250" height="250">
 </p>
-
+<br>
 <h3 align="center">🚀 Full MERN Stack Developer | Problem Solver | Web Enthusiast</h3>
 
 <div align="center" style="background-color: transparent;">
