@@ -114,28 +114,50 @@
 
 ## 🏅 LeetCode Badges
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://leetcode.com/u/Navyacs/" target="_blank">
-        <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" width="60" />
-      </a>
-      <div><strong>50 Days Badge</strong></div>
-    </td>
-    <td align="center" width="150">
-      <a href="https://leetcode.com/u/Navyacs/" target="_blank">
-        <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Badge" width="60" />
-      </a>
-      <div><strong>100 Days Badge</strong></div>
-    </td>
-    <td align="center" width="150">
-      <a href="https://leetcode.com/u/Navyacs/" target="_blank">
-        <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days Badge" width="60" />
-      </a>
-      <div><strong>200 Days Badge</strong></div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 15px; font-family: Arial, sans-serif;">
+  <!-- 50 Days Badge -->
+  <div style="text-align: center;">
+    <div style="
+      width: 60px; height: 60px; 
+      background: linear-gradient(135deg, #5bc0de, #3498db); 
+      clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+      display: flex; align-items: center; justify-content: center;
+      color: white; font-weight: bold; font-size: 14px;
+    ">
+      50
+    </div>
+    <div style="margin-top: 5px; font-size: 12px;">50 Days</div>
+  </div>
+
+  <!-- 100 Days Badge -->
+  <div style="text-align: center;">
+    <div style="
+      width: 60px; height: 60px; 
+      background: linear-gradient(135deg, #9b59b6, #8e44ad); 
+      clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+      display: flex; align-items: center; justify-content: center;
+      color: white; font-weight: bold; font-size: 14px;
+    ">
+      100
+    </div>
+    <div style="margin-top: 5px; font-size: 12px;">100 Days</div>
+  </div>
+
+  <!-- 200 Days Badge (Most Recent) -->
+  <div style="text-align: center;">
+    <div style="
+      width: 60px; height: 60px; 
+      background: linear-gradient(135deg, #2ecc71, #27ae60); 
+      clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+      display: flex; align-items: center; justify-content: center;
+      color: white; font-weight: bold; font-size: 14px;
+      border: 3px solid gold; /* highlight most recent */
+    ">
+      200
+    </div>
+    <div style="margin-top: 5px; font-size: 12px;">200 Days</div>
+  </div>
+</div>
 
 
 ---
