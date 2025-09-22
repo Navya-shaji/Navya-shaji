@@ -128,8 +128,15 @@
       </a>
       <div><strong>100 Days Badge</strong></div>
     </td>
+    <td align="center" width="150">
+      <a href="https://leetcode.com/u/Navyacs/" target="_blank">
+        <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days Badge" width="60" />
+      </a>
+      <div><strong>200 Days Badge</strong></div>
+    </td>
   </tr>
 </table>
+
 
 ---
 
