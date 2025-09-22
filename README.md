@@ -1,28 +1,27 @@
-<h1 align="center">Hey there, I'm Navya cs 🌝
-</h1>
+<h1 align="center">Hey there, I'm Navya cs 🌝</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWF3b3cxbnBiODR6MDQxdDBqNHdnM2xvMXVya3Q0ajU3MXZ1dmR4NSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="250" height="250">
 </p>
-<br>
+
 <h3 align="center">🚀 Full MERN Stack Developer | Problem Solver | Web Enthusiast</h3>
 
 <div align="center" style="background-color: transparent;">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
- 🌟 About Me
+🌟 About Me
 - 🎓 I have successfully completed my journey to become a **MERN Stack Developer**.  
 - 🌱 Passionate about **Web Development, JavaScript, and Full-Stack Engineering**.  
 - 🚀 Skilled in **MongoDB, Express.js, React.js, and Node.js**.  
 - 💡 I believe in **learning by doing** and building real-world projects.  
 - 🎯 My goal is to create **high-quality, scalable web applications**.  
- 💬 Ask me about **JavaScript, React, Node.js, and Web Technologies**.  
+- 💬 Ask me about **JavaScript, React, Node.js, and Web Technologies**.  
 - ⚡ Fun fact: I love turning **challenges into opportunities**!
 
 ---
 
- 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -46,7 +45,6 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-
 ---
 
 🎯 My Developer Journey
@@ -60,17 +58,17 @@
 
 ---
 
- 💡 Lessons I’ve Learned
+💡 Lessons I’ve Learned
 
-🛠️ Projects deepen learning  
-📅 Consistency beats talent  
-🤝 Asking and collaborating speeds growth  
-🐞 Debugging teaches best  
-📝 Writing things down brings clarity  
-🧠 Curiosity keeps you sharp  
-📈 Small steps = big progress  
-📣 Teaching helps you learn too  
-🧗 It’s okay to feel stuck — just don’t quit
+- 🛠️ Projects deepen learning  
+- 📅 Consistency beats talent  
+- 🤝 Asking and collaborating speeds growth  
+- 🐞 Debugging teaches best  
+- 📝 Writing things down brings clarity  
+- 🧠 Curiosity keeps you sharp  
+- 📈 Small steps = big progress  
+- 📣 Teaching helps you learn too  
+- 🧗 It’s okay to feel stuck — just don’t quit
 
 ---
 
@@ -97,10 +95,13 @@
   <img src="https://streak-stats.demolab.com?user=Navya-shaji&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-  </div>
-  <a href="https://github.com/Navya-shaji"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&bg_color=0000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="850" height="300" alt="Contribution Constellation"/></a>
-</div>
+<p align="center">
+  <a href="https://github.com/Navya-shaji">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navya-shaji&bg_color=0000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="850" height="300" alt="Contribution Constellation"/>
+  </a>
+</p>
 
+---
 
 ## 🎮 Fun Facts About Me
 
@@ -114,51 +115,9 @@
 
 ## 🏅 LeetCode Badges
 
-<div style="display: flex; align-items: center; gap: 15px; font-family: Arial, sans-serif;">
-  <!-- 50 Days Badge -->
-  <div style="text-align: center;">
-    <div style="
-      width: 60px; height: 60px; 
-      background: linear-gradient(135deg, #5bc0de, #3498db); 
-      clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
-      display: flex; align-items: center; justify-content: center;
-      color: white; font-weight: bold; font-size: 14px;
-    ">
-      50
-    </div>
-    <div style="margin-top: 5px; font-size: 12px;">50 Days</div>
-  </div>
-
-  <!-- 100 Days Badge -->
-  <div style="text-align: center;">
-    <div style="
-      width: 60px; height: 60px; 
-      background: linear-gradient(135deg, #9b59b6, #8e44ad); 
-      clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
-      display: flex; align-items: center; justify-content: center;
-      color: white; font-weight: bold; font-size: 14px;
-    ">
-      100
-    </div>
-    <div style="margin-top: 5px; font-size: 12px;">100 Days</div>
-  </div>
-
-  <!-- 200 Days Badge (Most Recent) -->
-  <div style="text-align: center;">
-    <div style="
-      width: 60px; height: 60px; 
-      background: linear-gradient(135deg, #2ecc71, #27ae60); 
-      clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
-      display: flex; align-items: center; justify-content: center;
-      color: white; font-weight: bold; font-size: 14px;
-      border: 3px solid gold; /* highlight most recent */
-    ">
-      200
-    </div>
-    <div style="margin-top: 5px; font-size: 12px;">200 Days</div>
-  </div>
-</div>
-
+<p align="center">
+  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Navyacs/)
+</p>
 
 ---
 
