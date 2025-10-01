@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Navya C S 🌝</h1>
+<h1 align="center">Hey there, I'm Navya C S </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWF3b3cxbnBiODR6MDQxdDBqNHdnM2xvMXVya3Q0ajU3MXZ1dmR4NSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="250" height="250" />
@@ -12,18 +12,18 @@
 
 ---
 
-## 🌟 About Me
-- 🎓 Completed my journey to become a **MERN Stack Developer**  
-- 🌱 Passionate about **Web Development, JavaScript, and Full-Stack Engineering**  
-- 🚀 Skilled in **MongoDB, Express.js, React.js, and Node.js**  
-- 💡 I believe in **learning by doing** and building real-world projects  
-- 🎯 My goal: Create **high-quality, scalable web applications**  
-- 💬 Ask me about **JavaScript, React, Node.js, and Web Technologies**  
-- ⚡ Fun fact: I love turning **challenges into opportunities**
+##  About Me
+- Completed my journey to become a **MERN Stack Developer**  
+-  Passionate about **Web Development, JavaScript, and Full-Stack Engineering**  
+-  Skilled in **MongoDB, Express.js, React.js, and Node.js**  
+-  I believe in **learning by doing** and building real-world projects  
+-  My goal: Create **high-quality, scalable web applications**  
+-  Ask me about **JavaScript, React, Node.js, and Web Technologies**  
+-  Fun fact: I love turning **challenges into opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <!-- Frontend -->
