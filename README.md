@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Navya C S </h1>
-
+<br>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ3cTJ2MzM4c29tdzFybHo5azRwN21wMDdtemQ0ejJzemI0MnFodCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okFG5aJWqRGMYXoKTD/giphy.gif" width="250" height="250" />
 </p>
