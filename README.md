@@ -25,9 +25,8 @@
 ##  Tech Stack
 
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vercel,figma" />
   </p>
-
 ---
 
 ## 🎯 My Developer Journey
@@ -97,28 +96,11 @@
 
 ## 🏅 LeetCode Badges
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://leetcode.com/u/Navyacs/" target="_blank">
-        <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60" />
-      </a>
-      <div><strong>50 Days Badge</strong></div>
-    </td>
-    <td align="center" width="150">
-      <a href="https://leetcode.com/u/Navyacs/" target="_blank">
-        <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="60" />
-      </a>
-      <div><strong>100 Days Badge</strong></div>
-    </td>
-    <td align="center" width="150">
-      <a href="https://leetcode.com/u/Navyacs/" target="_blank">
-        <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="60" />
-      </a>
-      <div><strong>200 Days Badge</strong></div>
-    </td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100" alt="50 Days Badge" style="margin: 0 20px;">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="140" alt="200 Days Badge" style="margin: 0 20px;">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="100" alt="100 Days Badge" style="margin: 0 20px;">
+</div>
 
 
 ---
