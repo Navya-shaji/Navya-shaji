@@ -111,20 +111,23 @@
 
 ## 🌎 Let's Connect
 
-<p align="center">
+<h3 align="center">🤝 Connect With Me</h3>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/navya-shaji-b3b81b325" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:navyacshaji12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
   <a href="https://github.com/Navya-shaji" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+  <a href="mailto:navyacshaji12@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
   <a href="https://leetcode.com/u/Navyacs/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode" style="border-radius: 10px; background-color: #1a1a1a; padding: 5px;" />
   </a>
   <a href="https://www.instagram.com/navyaaaaa_.12" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
   </a>
-</p>
+</div>
+
