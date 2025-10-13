@@ -20,14 +20,12 @@
 -  Ask me about **JavaScript, React, Node.js, and Web Technologies**  
 -  Fun fact: I love turning **challenges into opportunities**
 
----
-
 ##  Tech Stack
 
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vercel,figma" />
   </p>
----
+
 
 ## 🎯 My Developer Journey
 
