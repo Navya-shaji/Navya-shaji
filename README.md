@@ -105,7 +105,6 @@
 
 
 
-### 🧩 & Coding Journey
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Navyacs?theme=transparent&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
