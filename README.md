@@ -105,8 +105,12 @@
 
 
 
----
+### 🧩 & Coding Journey
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Amalnt?theme=transparent&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
+---
 ## 🌎 Let's Connect
 
 <h3 align="center">🤝 Connect With Me</h3>
