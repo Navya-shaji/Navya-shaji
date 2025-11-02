@@ -10,7 +10,7 @@
 </p>
 
 ---
-
+<br>
 ##  About Me
 - Completed my journey to become a **MERN Stack Developer**  
 -  Passionate about **Web Development, JavaScript, and Full-Stack Engineering**  
