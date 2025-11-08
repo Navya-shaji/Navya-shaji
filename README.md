@@ -28,17 +28,6 @@ I'm a passionate **MERN Stack Developer** with a background in Mathematics, comb
 
 ---
 
-## 💭 Developer Philosophy
-
-> *"Practice like you've never won. Perform like you've never lost."*
-
-- 🛠️ Build to learn, learn to build
-- 📅 Consistency compounds
-- 🤝 Collaboration accelerates growth
-- 🐞 Every bug is a lesson
-- 📈 Progress over perfection
-
----
 
 ## 📊 GitHub Stats
 
