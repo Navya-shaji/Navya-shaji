@@ -28,6 +28,17 @@ I'm a passionate **MERN Stack Developer** with a background in Mathematics, comb
 
 ---
 
+## 💭 Developer Philosophy
+
+> *"Practice like you've never won. Perform like you've never lost."*
+
+- 🛠️ Build to learn, learn to build
+- 📅 Consistency compounds
+- 🤝 Collaboration accelerates growth
+- 🐞 Every bug is a lesson
+- 📈 Progress over perfection
+
+---
 
 ## 📊 GitHub Stats
 
@@ -40,15 +51,15 @@ I'm a passionate **MERN Stack Developer** with a background in Mathematics, comb
 
 ## 🏅 LeetCode Journey
 
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100" alt="50 Days Badge">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="140" alt="200 Days Badge">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="100" alt="100 Days Badge">
+</div>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Navyacs?theme=transparent&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
-
-<div align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="80" alt="50 Days Badge">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="80" alt="100 Days Badge">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="120" alt="200 Days Badge">
-</div>
 
 ---
 
