@@ -18,7 +18,7 @@ I'm a passionate **MERN Stack Developer** with a background in Mathematics, comb
 - 🎯 Focused on creating high-quality, user-centric applications
 - 📚 Ask me about **JavaScript, React, Node.js, and Web Technologies**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +26,7 @@ I'm a passionate **MERN Stack Developer** with a background in Mathematics, comb
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vercel,figma" />
 </p>
 
----
+
 
 
 ## 📊 GitHub Stats
@@ -36,7 +36,7 @@ I'm a passionate **MERN Stack Developer** with a background in Mathematics, comb
   <img src="https://streak-stats.demolab.com?user=Navya-shaji&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
----
+
 
 ## 🏅 LeetCode Journey
 
@@ -50,7 +50,7 @@ I'm a passionate **MERN Stack Developer** with a background in Mathematics, comb
   <img src="https://leetcard.jacoblin.cool/Navyacs?theme=transparent&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
----
+
 
 ## 🤝 Let's Connect
 
