@@ -19,7 +19,18 @@ I'm a passionate MERN Stack Developer with a strong foundation in Mathematics, b
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Navya-shaji&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://streak-stats.demolab.com?user=Navya-shaji&theme=tokyonight&hide_border=true" height="165" /> </p>
 🏅 LeetCode Journey
-<div align="center"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="120"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="90"> </div> <br> <p align="center"> <img src="https://leetcard.jacoblin.cool/Navyacs?theme=light&font=Karma&ext=heatmap" width="400" /> </p>
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="120">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="90">
+</div>
+<br>
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/Navyacs?theme=transparent&font=Karma&ext=heatmap"
+    width="400"
+  />
+</p>
 🤝 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/navya-shaji-b3b81b325" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="50" /> </a> <a href="https://github.com/Navya-shaji" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="50" /> </a> <a href="mailto:navyacshaji12@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="50" /> </a> <a href="https://leetcode.com/u/Navyacs/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="43" style="border-radius: 12px; background:#111; padding:6px;" /> </a> </div>
 <p align="center"> <i>✨ Always open to collaboration, learning, and exciting opportunities!</i> </p>
