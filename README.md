@@ -1,4 +1,4 @@
-# Hey there, I'm Navya C S 👋
+# Hey there, I'm Navya C S 
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ3cTJ2MzM4c29tdzFybHo5azRwN21wMDdtemQ0ejJzemI0MnFodCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/okFG5aJWqRGMYXoKTD/giphy.gif" width="220" />
@@ -10,12 +10,12 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I'm a passionate MERN Stack Developer with a strong foundation in **Mathematics**, blending analytical skills with creativity to build clean, scalable, and user-focused web applications.  
 
 - 🔭 Specialized in **MongoDB, Express.js, React.js, Node.js**  
-- 💡 Love solving challenging problems & optimizing performance  
+-  Love solving challenging problems & optimizing performance  
 - 🌱 Currently exploring **advanced System Design & DSA**  
 - 🎯 Building **production-ready, scalable MERN applications**  
 - 📚 Ask me anything about **JavaScript, React, Node.js, MongoDB**  
