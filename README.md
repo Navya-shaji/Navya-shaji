@@ -41,9 +41,15 @@ I'm a passionate MERN Stack Developer with a strong foundation in **Mathematics*
 
 ## 🏅 LeetCode Journey
 
-<div align="center"> <img src="https://assets.leetcode.com/static_assets/marketing/2025.gif" width="110"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="120"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="90"> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90"> </div> <p align="center"> <img src="https://leetcard.jacoblin.cool/Navyacs?theme=transparent&font=Karma&ext=heatmap" width="400" /> </p>
+## 🏅 LeetCode Journey
 
----
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="100">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="120">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="90">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90">
+</div>
+
 
 ## 🤝 Connect With Me
 
