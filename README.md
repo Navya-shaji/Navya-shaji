@@ -39,7 +39,6 @@ I'm a passionate MERN Stack Developer with a strong foundation in **Mathematics*
 
 ---
 
-## 🏅 LeetCode Journey
 
 ## 🏅 LeetCode Journey
 
