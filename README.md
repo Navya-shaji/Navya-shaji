@@ -1,11 +1,11 @@
-# Hey there, I'm Navya C S 
+Hey there, I'm Navya C S 
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ3cTJ2MzM4c29tdzFybHo5azRwN21wMDdtemQ0ejJzemI0MnFodCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/okFG5aJWqRGMYXoKTD/giphy.gif" width="220" />
 </p>
 
 <p align="center">
-  <strong>🚀 Full MERN Stack Developer | Problem Solver | Web Enthusiast</strong>
+  <strong>Full MERN Stack Developer | Problem Solver | Web Enthusiast</strong>
 </p>
 
 ---
@@ -43,7 +43,6 @@ I'm a passionate MERN Stack Developer with a strong foundation in **Mathematics*
 ## 🏅 LeetCode Journey
 
 <div align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="100">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="120">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="90">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="90">
