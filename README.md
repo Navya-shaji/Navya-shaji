@@ -15,9 +15,9 @@
 ## 🚀 About Me
 ```typescript
 const navya = {
-    location: "Kakkanad, Kerala, India",
+    location: "Kochi, Kerala, India",
     education: "Mathematics Background",
-    currentFocus: ["System Design", "Data Structures & Algorithms"],
+    currentFocus: ["Data Structures & Algorithms"],
     techStack: {
         frontend: ["React", "TypeScript", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "MongoDB"],
