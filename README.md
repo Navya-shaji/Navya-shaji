@@ -93,7 +93,7 @@ const navya = {
 
 🏅 **365 Days Badge** · 🥇 **Annual Badge** · 🥈 **200 Days Badge** · 🥉 **100 Days Badge** · 🎖️ **50 Days Badge**
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Navyacs?theme=dark&font=JetBrains%20Mono&ext=activity)](https://leetcode.com/u/Navyacs/)
+
 
 </div>
 
