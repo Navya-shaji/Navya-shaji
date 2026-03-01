@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 <div align="left">
 
@@ -96,5 +96,6 @@ const navya = {
 </p>
 
 </div>
+
 
 
