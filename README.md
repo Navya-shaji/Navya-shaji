@@ -40,7 +40,4 @@ I'm a passionate web developer focused on creating interactive and responsive ap
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Navya-shaji&show_icons=true&theme=radical" alt="Navya's GitHub stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navya-shaji&theme=radical" alt="Navya's GitHub Streak" />
 </div>
