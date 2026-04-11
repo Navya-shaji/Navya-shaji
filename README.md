@@ -42,24 +42,20 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Navya-shaji&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=Navya-shaji&theme=dark&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=Navya-shaji&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Navya-shaji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Streak](https://streak-stats.demolab.com?user=Navya-shaji&theme=tokyonight)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navya-shaji&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Navya-shaji&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=Navya-shaji&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Navya-shaji&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
 
----
+![Repo](https://github-contributor-stats.vercel.app/api?username=Navya-shaji&limit=5&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=Navya-shaji&icon=0&color=0)](https://visitcount.itsvg.in)
