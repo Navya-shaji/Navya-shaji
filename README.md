@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👩‍💻 Software Developer with a strong foundation in Mathematics<br>
 🚀 Passionate about building scalable full-stack applications (MERN)<br>
 🧠 Solved 500+ problems on LeetCode, focused on DSA & problem-solving<br>
