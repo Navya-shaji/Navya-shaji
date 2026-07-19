@@ -6,7 +6,7 @@
 📚 Currently exploring system design and performance optimization<br>
 🤝 Open to collaborations and real-world product development<br>
 💬 Ask me about React, Node.js, MongoDB, and backend architecture<br>
-⚡ Fun fact: I enjoy transforming complex ideas into real-world products<br>
+
 
 ---
 
