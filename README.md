@@ -1,12 +1,12 @@
- About Me
-Software Engineer at Sthitha Quantum Innovations Pvt Ltd
+## About Me
+
+👩‍💻 **Software Engineer at Sthitha Quantum Innovations Pvt Ltd**<br>
 🚀 Passionate about building scalable full-stack applications (MERN)<br>
 🧠 Solved 500+ problems on LeetCode, focused on DSA & problem-solving<br>
 ⚙️ Experienced in Clean Architecture, REST APIs, and modern UI design<br>
-📚 Currently exploring system design and performance optimization<br>
+📚 Currently exploring system design, performance optimization, and cryptography<br>
 🤝 Open to collaborations and real-world product development<br>
-💬 Ask me about React, Node.js, MongoDB, and backend architecture<br>
-
+💬 Ask me about React, Node.js, MongoDB, backend architecture, and full-stack development<br>
 
 ---
 
