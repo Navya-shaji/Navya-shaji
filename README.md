@@ -1,5 +1,5 @@
  About Me
-👩‍💻 Software Developer with a strong foundation in Mathematics<br>
+Software Engineer at Sthitha Quantum Innovations Pvt Ltd
 🚀 Passionate about building scalable full-stack applications (MERN)<br>
 🧠 Solved 500+ problems on LeetCode, focused on DSA & problem-solving<br>
 ⚙️ Experienced in Clean Architecture, REST APIs, and modern UI design<br>
